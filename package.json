@@ -1,9 +1,14 @@
 {
-  "name": "github-theme-clone",
-  "displayName": "github-theme-clone",
-  "description": "",
+  "name": "github-theme-by-humamafif",
+  "displayName": "Github Theme by humamafif",
+  "description": "A Visual Studio Code theme inspired by GitHub's aesthetic with a personal touch",
   "version": "0.0.1",
   "publisher": "humamafif",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humamafif/github-theme-clone"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
   },
