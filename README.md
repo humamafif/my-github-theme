@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Created with ❤️ by [Humam Afif](https://github.com/humamafif)**
+**Created by [Humam Afif](https://github.com/humamafif)**
