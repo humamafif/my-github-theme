@@ -3,6 +3,7 @@
   "displayName": "github-theme-clone",
   "description": "",
   "version": "0.0.1",
+  "publisher": "humamafif",
   "engines": {
     "vscode": "^1.100.0"
   },
