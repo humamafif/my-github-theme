@@ -1,0 +1,21 @@
+{
+  "name": "github-theme-clone",
+  "displayName": "github-theme-clone",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "github-theme-humamafif",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-theme-humamafif-color-theme.json"
+      }
+    ]
+  }
+}
