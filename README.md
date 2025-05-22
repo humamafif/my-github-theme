@@ -39,7 +39,7 @@ See the [CHANGELOG](CHANGELOG.md) for details about each release.
 
 Your contributions are greatly appreciated! If you encounter any issues or have suggestions for improvements:
 
-1. [Create an issue](https://github.com/humamafif/github-theme-clone/issues/new)
+1. [Create an issue](https://github.com/humamafif/my-github-theme/issues/new)
 2. Fork the repository
 3. Create a new branch (`git checkout -b feature/improvement`)
 4. Commit your changes (`git commit -m 'Add some improvement'`)
