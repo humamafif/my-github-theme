@@ -2,7 +2,7 @@
 
 A Visual Studio Code theme inspired by GitHub's aesthetic with a personal touch. This theme is designed to provide a comfortable coding experience with a familiar yet optimized color scheme.
 
-![Preview Screenshot](images/screenshot.png)
+![Preview Screenshot](images/preview.png)
 
 ## Features
 
