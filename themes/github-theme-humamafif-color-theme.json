@@ -624,7 +624,7 @@
       "name": "Classes",
       "scope": "support.class",
       "settings": {
-        "foreground": "#76d87f",
+        "foreground": "#79c0ff",
       }
     },
     {
@@ -742,7 +742,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#c9d9cf"
+        "foreground": "#edffe6"
       }
     },
     {
@@ -799,7 +799,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#73b7f4"
+        "foreground": "#d2a8ff"
       }
     },
     {
@@ -1433,7 +1433,7 @@
         "keyword.operator.assignment"
       ],
       "settings": {
-        "foreground": "#d2a8ff"
+        "foreground": "#c9d1d9"
       }
     },
     {
