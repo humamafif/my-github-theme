@@ -742,7 +742,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#edffe6"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1878,7 +1878,7 @@
     "sideBarSectionHeader.foreground": "#9ac1ff",
     "sideBarSectionHeader.border": "#cccccc00",
     "sideBarTitle.foreground": "#ffffff83",
-    "sideBar.border": "#ffffff2a",
+    "sideBar.border": "#ffffff26",
     "list.inactiveSelectionBackground": "#262c36",
     "list.inactiveSelectionForeground": "#ffffff",
     "list.hoverBackground": "#262c36",
@@ -1956,8 +1956,8 @@
     "editor.lineHighlightBorder": "#ffffff0e",
     "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#58b3ff",
-    "editorIndentGuide.background": "#ffffff2a",
-    "editorIndentGuide.activeBackground": "#ffffff2a",
+    "editorIndentGuide.background1": "#ffffff16",
+    "editorIndentGuide.activeBackground1": "#ffffff16",
     "editorRuler.foreground": "#00000000",
     "editorBracketMatch.background": "#262c36",
     "editorBracketMatch.border": "#888888",
